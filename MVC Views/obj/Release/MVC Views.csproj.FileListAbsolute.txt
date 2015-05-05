@@ -1,0 +1,148 @@
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.dll.config
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.pdb
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Helpers.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Mvc.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Optimization.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Razor.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\WebGrease.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Helpers.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Mvc.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Optimization.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Razor.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.pdb
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Razor.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\EntityFramework.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Release\MVC Views.csprojResolveAssemblyReference.cache
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Release\MVC Views.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Release\MVC Views.pdb
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\MVC Views.dll.config
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\MVC Views.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\MVC Views.pdb
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\EntityFramework.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Owin.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Helpers.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Mvc.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Optimization.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Razor.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\WebGrease.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Helpers.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Mvc.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Optimization.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.Razor.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.pdb
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\EntityFramework.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.Razor.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\EntityFramework.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\obj\Release\MVC Views.csprojResolveAssemblyReference.cache
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\obj\Release\MVC Views.dll
+E:\Учёба\4 курс\Интернет-программирование\MVC-Views-master\MVC Views\obj\Release\MVC Views.pdb

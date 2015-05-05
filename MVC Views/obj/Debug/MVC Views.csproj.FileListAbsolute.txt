@@ -1,0 +1,444 @@
+J:\MVC Views\MVC Views\bin\MVC Views.dll.config
+J:\MVC Views\MVC Views\bin\MVC Views.dll
+J:\MVC Views\MVC Views\bin\MVC Views.pdb
+J:\MVC Views\MVC Views\bin\Antlr3.Runtime.dll
+J:\MVC Views\MVC Views\bin\EntityFramework.dll
+J:\MVC Views\MVC Views\bin\EntityFramework.SqlServer.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+J:\MVC Views\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+J:\MVC Views\MVC Views\bin\Newtonsoft.Json.dll
+J:\MVC Views\MVC Views\bin\Owin.dll
+J:\MVC Views\MVC Views\bin\System.Web.Helpers.dll
+J:\MVC Views\MVC Views\bin\System.Web.Mvc.dll
+J:\MVC Views\MVC Views\bin\System.Web.Optimization.dll
+J:\MVC Views\MVC Views\bin\System.Web.Razor.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Deployment.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.dll
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Razor.dll
+J:\MVC Views\MVC Views\bin\WebGrease.dll
+J:\MVC Views\MVC Views\bin\System.Web.Helpers.xml
+J:\MVC Views\MVC Views\bin\System.Web.Mvc.xml
+J:\MVC Views\MVC Views\bin\System.Web.Optimization.xml
+J:\MVC Views\MVC Views\bin\System.Web.Razor.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Deployment.xml
+J:\MVC Views\MVC Views\bin\System.Web.WebPages.Razor.xml
+J:\MVC Views\MVC Views\bin\Antlr3.Runtime.pdb
+J:\MVC Views\MVC Views\bin\Newtonsoft.Json.xml
+J:\MVC Views\MVC Views\bin\EntityFramework.xml
+J:\MVC Views\MVC Views\bin\EntityFramework.SqlServer.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+J:\MVC Views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+J:\MVC Views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+J:\MVC Views\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.Razor.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+J:\MVC Views\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+J:\MVC Views\MVC Views\bin\ru\EntityFramework.resources.dll
+J:\MVC Views\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+J:\MVC Views\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.dll
+J:\MVC Views\MVC Views\obj\Debug\MVC Views.pdb
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.dll.config
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\MVC Views.pdb
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Owin.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Helpers.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Mvc.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Optimization.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Razor.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\WebGrease.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Helpers.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Mvc.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Optimization.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.Razor.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Deployment.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\System.Web.WebPages.Razor.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Antlr3.Runtime.pdb
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Newtonsoft.Json.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\EntityFramework.SqlServer.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.Razor.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\EntityFramework.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Debug\MVC Views.dll
+D:\Study\Петухова\MVC-Views-master\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\MVC Views.dll.config
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\MVC Views.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\MVC Views.pdb
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\EntityFramework.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Owin.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Razor.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\WebGrease.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.Razor.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\EntityFramework.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\st8\Desktop\MVCViews\views\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\MVC Views.dll.config
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\MVC Views.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\MVC Views.pdb
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\EntityFramework.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Owin.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\WebGrease.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\EntityFramework.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Ярик\Desktop\ViewsMVC1-master\MVCViews\views\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\MVC Views.dll.config
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\MVC Views.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\MVC Views.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\EntityFramework.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\WebGrease.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\EntityFramework.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\views\MVC Views\obj\Debug\MVC Views.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\MVC Views.dll.config
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\MVC Views.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\MVC Views.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Antlr3.Runtime.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\EntityFramework.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\EntityFramework.SqlServer.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Newtonsoft.Json.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Owin.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Helpers.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Mvc.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Optimization.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Razor.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\WebGrease.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Helpers.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Mvc.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Optimization.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.Razor.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Antlr3.Runtime.pdb
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Newtonsoft.Json.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\EntityFramework.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\EntityFramework.SqlServer.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Security.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\obj\Debug\MVC Views.csprojResolveAssemblyReference.cache
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\obj\Debug\MVC Views.dll
+C:\Users\Ярик\Desktop\Резерв УДАИЛ\Lab9\MVC Views\obj\Debug\MVC Views.pdb

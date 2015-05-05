@@ -1,0 +1,14 @@
+﻿@model string[]
+
+<div class="panel panel-success">
+    <div class="panel-heading">Файлы</div>
+    <div class="panel-body">
+        <ul class="nav nav-pills nav-stacked">
+            @foreach (var item in @Model)
+            {
+                <li role="presentation"> @Html.ActionLink(@item,"Table", new {id=@item})</li>
+            }
+        </ul>
+    </div>
+    
+</div>
